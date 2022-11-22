@@ -1,5 +1,7 @@
 # Supply-Chain-Analysis
 
+Youtube Video -> https://youtu.be/aQw6WK5Ubqk
+
 ## Problem Statement:
 
 G Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
